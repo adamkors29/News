@@ -1,7 +1,9 @@
-body {background: black}
+body {background: #00008c
+}
 
 h1 {
     font-size: 400px;
     text-align: center;
     text-decoration: underline;
+    color: white;
 }
