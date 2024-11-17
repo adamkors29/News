@@ -1,7 +1,8 @@
-body {background: white}
+body {background: wheat}
 
 h1 {
     font-size: 400px;
     text-align: center;
     text-decoration: underline;
+    color: blue;
 }
